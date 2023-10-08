@@ -249,9 +249,9 @@ export const projects = [
       "Express Js",
       "Redux",
     ],
-    // category: "web app",
+
     github: "https://github.com/susantadas2003/Amazon-clone",
-    // webapp: "https://trackify.duckdns.org",
+
   },
   {
     id: 0,
@@ -279,7 +279,7 @@ export const projects = [
     ],
 
     github: "https://github.com/susantadas2003/WeatherNow",
-
+webapp:"https://susantadas2003.github.io/WeatherNow/",
   },
   {
     id: 2,
